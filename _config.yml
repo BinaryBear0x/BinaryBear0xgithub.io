@@ -28,8 +28,7 @@ url: "https://BinaryBear0x.github.io"
 github:
   username: BinaryBear0x # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+
 
 social:
   # Change to your full name.
@@ -38,7 +37,7 @@ social:
   email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+
     - https://github.com/BinaryBear0x # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
