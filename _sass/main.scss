@@ -2,3 +2,9 @@
 @forward 'components';
 @forward 'layout';
 @forward 'pages';
+
+/* Custom CSS to fix image cropping in previews */
+.preview-img img, .card-preview img {
+  object-fit: contain !important;
+  background-color: #1a0000; /* Match card background or dark color */
+}
