@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oyun Assetlerini Tersine Mühendislikle İncelemek (Sea of Thieves)
-date: 2026-02-17 01:14:00 +0300
+date: 2026-02-15 21:00:00 +0300
 categories: [Tersine Mühendislik, Oyun Geliştirme]
 tags: [reverse-engineering, sea-of-thieves, unreal-engine, 3d-printing]
 image:

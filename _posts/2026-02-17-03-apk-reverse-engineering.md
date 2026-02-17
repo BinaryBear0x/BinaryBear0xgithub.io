@@ -2,6 +2,7 @@
 layout: post
 title: "Bir Kulaklığın Anatomisi - Bölüm 3: Mobil Uygulama Reverse Engineering"
 categories: [reverse-engineering, mobile-security]
+date: 2026-02-17 12:00:00 +0300
 tags: [android, jadx, apk, reversing]
 toc: true
 image:

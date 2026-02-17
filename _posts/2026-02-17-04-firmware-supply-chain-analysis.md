@@ -2,6 +2,7 @@
 layout: post
 title: "Bir Kulaklığın Anatomisi - Bölüm 4: Firmware Dağıtım Kanalının Analizi"
 categories: [reverse-engineering, mobile-security]
+date: 2026-02-17 12:00:00 +0300
 tags: [pki, firmware, aws, flutter]
 toc: true
 image:

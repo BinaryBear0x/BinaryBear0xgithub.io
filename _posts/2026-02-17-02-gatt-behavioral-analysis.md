@@ -2,6 +2,7 @@
 layout: post
 title: "Bir Kulaklığın Anatomisi - Bölüm 2: GATT Analizleri ve Davranışsal Mapping"
 categories: [reverse-engineering]
+date: 2026-02-17 12:00:00 +0300
 tags: [bluetooth, ble, gatt, protocol-analysis]
 toc: true
 image:

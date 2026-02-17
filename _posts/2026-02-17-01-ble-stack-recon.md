@@ -2,6 +2,7 @@
 layout: post
 title: "Bir Kulaklığın Anatomisi - Bölüm 1: BLE Stack Analizi"
 categories: [reverse-engineering]
+date: 2026-02-17 12:00:00 +0300
 tags: [bluetooth, ble, firmware, reversing]
 toc: true
 image:
